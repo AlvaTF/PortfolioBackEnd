@@ -15,6 +15,7 @@ com\pfap\proyectofinal\Dto\dtoExperiencia.class
 com\pfap\proyectofinal\Controller\CEducacion.class
 com\pfap\proyectofinal\Entity\Persona.class
 com\pfap\proyectofinal\Dto\dtoPersona.class
+WebConfig.class
 com\pfap\proyectofinal\Entity\Educacion.class
 com\pfap\proyectofinal\Service\ImpPersonaService.class
 com\pfap\proyectofinal\Repository\Rhys.class
