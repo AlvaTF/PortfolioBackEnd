@@ -6,7 +6,6 @@ com\pfap\proyectofinal\Service\Shys.class
 com\pfap\proyectofinal\ProyectofinalApplication.class
 com\pfap\proyectofinal\Service\SExperiencia.class
 com\pfap\proyectofinal\Repository\IPersonaRepository.class
-com\pfap\proyectofinal\WebConfig.class
 com\pfap\proyectofinal\Controller\CHys.class
 com\pfap\proyectofinal\Repository\RExperiencia.class
 com\pfap\proyectofinal\Mensaje.class
