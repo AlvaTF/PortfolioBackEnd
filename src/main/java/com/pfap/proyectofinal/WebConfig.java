@@ -1,3 +1,5 @@
+package com.pfap.proyectofinal;
+
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
@@ -23,7 +25,7 @@ public class WebConfig implements WebMvcConfigurer {
 
     public void addCorsMappings(CorsRegistry registry) {
 
-        registry.addMapping("https://tpfinalargentinaprograma.web.app");
+        registry.addMapping("/**");
 
     }
 
